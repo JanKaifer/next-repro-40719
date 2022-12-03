@@ -2,3 +2,7 @@ section {
   height: 2000px;
   background-color: pink;
 }
+
+html {
+  scroll-behavior: smooth;
+}
