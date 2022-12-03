@@ -9,7 +9,8 @@ export default function Page() {
         // setTimeout(() => { console.log("shooth") }, 1000)
     }
 
-    return <div style={{ height: 10000 }}>
-        <button onClick={scrollToTop} style={{ marginTop: 9900 }}>to top</button>
+    return <div>
+        <section />
+        <button onClick={scrollToTop}>to top</button>
     </div>;
 }
