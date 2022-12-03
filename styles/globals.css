@@ -1,16 +1,1 @@
-html {
-  scroll-behavior: smooth;
-}
-
-section {
-  height: 2000px;
-  background-color: pink;
-}
-
-section:nth-child(2) {
-  background-color: orange;
-}
-
-.link {
-  display: block;
-}
+html {}
